@@ -41,5 +41,5 @@ body:
       options:
         - label: リクエストしようとしている機能およびドキュメントが、既に Issues やプルリクエスト、 Discussions に登録されていないことを確認しました。
           required: true
-        - label: 私たちの [行動規範](../../?tab=coc-ov-file) に従うことを同意します。
+        - label: 私たちの [行動規範](../?tab=coc-ov-file) に従うことを同意します。
           required: true
