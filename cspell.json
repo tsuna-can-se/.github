@@ -1,0 +1,14 @@
+{
+    "ignorePaths": [
+        ".textlintrc",
+        ".vscode",
+        "cspell.json",
+        "github.code-workspace",
+        "package.json",
+        "package-lock.json",
+        "**/node_modules/**"
+    ],
+    "words": [
+        "tsuna"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+        "[markdown]": {
+            "editor.tabSize": 4
+        }
+	},
+	"extensions": {
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
+        "shuworks.vscode-table-formatter",
+        "taichi.vscode-textlint"
+		]
+    }
+}
