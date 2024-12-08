@@ -1,5 +1,10 @@
 {
     "ignorePaths": [
+        ".git",
+        ".gitignore",
+        ".markdownlint-cli2.jsonc",
+        ".markdownlint.yaml",
+        ".textlintignore",
         ".textlintrc",
         ".vscode",
         "cspell.json",
